@@ -1,0 +1,12 @@
+StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation
+https://paperswithcode.com/paper/storymaker-towards-holistic-consistent
+https://github.com/redaigc/storymaker
+
+
+A visualization method for data domain changes in CNN networks and the optimization method for selecting thresholds in classification tasks
+https://paperswithcode.com/paper/a-visualization-method-for-data-domain
+
+
+Analyzing Effective Factors of Online Learning Performance by Interpreting Machine Learning Models
+https://ieeexplore.ieee.org/document/10323316?denied=
+https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
